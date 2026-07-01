@@ -1,0 +1,34 @@
+{
+  "citations": [
+    "[basenor.com](https://news.google.com/rss/articles/CBMilwFBVV95cUxQa3NtSmZrRC1SdHRPOFFlQnN4UXVZaGxuYjBjVjczLTlTWHpZai1ibHRuU2wxdDdPWlhKcnNPMGZtbUxobXc0dDFwaS01WXBvLVAwcjJETDB6VW1GX1VpSm1wSzdfRWU1TjZtSmdqUVo5dzBtVnFvSjR1a3pXazhnQUNsTHM4MXJTd2pnS20yUERxem9QdGhN)",
+    "[x.ai](https://news.google.com/rss/articles/CBMiVEFVX3lxTFA1Z29raHh3X3JFNGRJRTJQQTRmbk5mdHRMUndpeWp4VkJfRVlydzBUMmFENDF4bWVreU9WMC1CLVdBRzRIUUphUjhzWWREeEJEdHFwWg)",
+    "[testingcatalog.com](https://news.google.com/rss/articles/CBMihAFBVV95cUxPUkloeTBmMkFaZTBJVEF3TWFFWmoxVGpTLVRrblYzNU40NFJnejAwQTBWTVk4TEF6NTh1RmRYM01WSGkwLTE2QW9XQ29LQTRzd3FXRXJTSm52VlNnY0JHUTlBZ3NjaGFSZjl1ZlJwWENRNGk0UG96d1JxazUxOTFuRnBNVXA)",
+    "[cryptobriefing.com](https://news.google.com/rss/articles/CBMiekFVX3lxTE1vTl9GdF90MGUzLUwwb0JVdzZQMXB1MGdjZmp5a0xBUXBLbGczNDY4eVc2ZjRHV3JPYmpBbnVfOWdIeHVSV005RkZ5UVl4emN3Nk8wMDlDWkJhTlItcWV0YkJNdFM2RmFUNFh0OVIwSVdqemNTMkE0eU9n)",
+    "[bravenewcoin.com](https://news.google.com/rss/articles/CBMirgFBVV95cUxOZTRSRkMyUGllZy1VSm9MbmpRQ2JXLVdOUnoxQ3FZMkJUaE1HN2stRy1ocVU4ekNPdjdEcmZnT2ZINEVJc3lpOFpkNnhYdlBod080TTBUaDNSSk5fTDh3cHBwaFI5SUxnRklYdkFfT195cmVXM3lnSXZhTDF6N1VBall6cTc3R0FpN25Ja19rUlZGd3U3M29MWnJhOUw4X3ZPUkNqeTlpaHVOTkljZ1E)",
+    "[blog.google](https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjllUkZKb0szb0oyXzd5NnNVdGlQZk9PYmNkWlQyU3VkdGpNNGFhaVVoRGdOaFB1dDNRbUVrMWRzdFRnc3JBZlZZUThFeHdjQTljTW1oVnJPU1p6MDU2b2lZQ2tsV0I5Q2NSeWdhd09FV0plYTB3NmdTRlZVbHlQQ3gzazZpOVYzMWV4QjQ4S0xnT0tickhIZVMzcTVWMjVOQ2xpS2dOZTFXUms4LTJ0Y2s0YU0)",
+    "[alm.com](https://news.google.com/rss/articles/CBMikgFBVV95cUxNNVlMUHR5YkM3QkpZSWcxZ2Qyb1BiZ19rYVZudHVlQjFzQmxJZEkwb1I4NTZsUjBGRmoxdmZ5OVFlOV81MUw2bHVJa1U4bURpTVd6LXd6RlQ5QklhWkxxYlcwSm83UDU1Rkl0SkxudEg3Wm1WNmQ4OEtBT3lDMEFRQjc3Smc4UlpxMG44bWZiUmRXdw)",
+    "[scmedia.com](https://news.google.com/rss/articles/CBMilAFBVV95cUxNdzI4SHY5RUNhUEQ0X2lETmh4SkdxaVQ4SHNaVlJ3X2EtYVJxMm0tT0tvQ3R1Z3ZVTGpuLWxWVEtFQW1qd3ZaVjFpdDlVMGhWUDc3QkFDd1pxQk9xZmxaYUg4ZE55SVB6dEw3TzhmdDJjRmo1RmJsUUR2UXF5MkNlakd6TFlQczdjOGJRZUMzRjhJSlpa)",
+    "[securityaffairs.com](https://news.google.com/rss/articles/CBMiowFBVV95cUxPS2lpbklEYzd3VWY3MTJRN2Q2S3lsbVducjFYV3VWNWxqT3NXZ0xwa2Y5MGRWRXVqb2N4Ym1rc255XzZfMjZXbDRBS0JMb1BVT0dEM1ZndFoyQTdpdjVlT19lb0FsdTZTWGY2S1JLc2ZHNVh6Yy10TGxrM3VXdW5sVVpkY1FzYkdDLU5Cc29ELXNxZnBUSzRxTHJrYS1ld2dsM2JF)",
+    "[ndtvprofit.com](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbjU5NV8wbzNQVFZGQTZFNGFZd3F0Y3Y2QllNZUFIQVd4WHIyMTlLa0dFaXhTcHpFcFk5OEJfcWFqMnpNZUR1QmZkcE1jc3M3ZWNKaE51S0VsOGE2THJXUXhhWXUtdFFnMW9jd2dXQVpINUFldjkzLXZEZ1NTVmdraUZXZi1fSXlkNk9LdTNia2F2MDVJc0t2ekNBVVdZY2gyenZmR1VEdjlLVlNhbGNMd0NpYTVhRGFnSERYVVF1Xy1iYmvS)",
+    "[techradar.com](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMHlzUS1RcVg4X2ZaNkIySk1OVWdWSE84N2NwamNmOWFIWVUtMk1tQlZFX05DU3lDbWh5azlXVmV6UFQ0T05CeHpEUFY4Z0k0cWl4OHd0Wl83WF9HbGt0enJ0NWU1MUNSMVdnVjVCU1NHLUdoMENHU28yZ3Y4Um83Y25OUXZSdndFZWNwRnJZeUF3OUM2RW8wT3djamN5ckU3S1hCY1FxZUpUUy1kWDIyaTY0aXBRT2E0dzFySUdhcU5DUkxqemhqQWZCY1Qzc3RtQnVYYTYzYmx0dzJ0cVpsR1VpUjV0TzNfcy15RmE3bEVvSUFPV1gxSWNn)"
+  ],
+  "design_plan": "rng=42; hero_math:max_width_1120_2to3_lines; AIDA=pass; density:grid-auto-flow-dense; competitors_label_sweep=pass; button_contrast=pass",
+  "generated_at": "2026-07-01T23:03:38.525735+00:00",
+  "headline": "Super vs Grok \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Grok",
+    "competitor": "Grok",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Grok. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Grok AI agent",
+      "Grok AI assistant",
+      "Grok automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-grok",
+    "title": "Super vs Grok"
+  },
+  "summary": "A fair, source\u2011driven comparison of Super and Grok for people evaluating personal AI agents. Grok shines as a real\u2011time, opinionated assistant and is expanding into automations and voice. Super is purpose\u2011built for durable computer\u2011use workflows, with a reusable computer-use cache that makes repeated tasks faster and cheaper over time. This page situates both products within the broader agent landscape alongside ChatGPT, Gemini, Siri, Folk, and Orchids, using current reporting as evidence."
+}
